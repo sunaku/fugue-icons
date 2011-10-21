@@ -1,5 +1,22 @@
-Version 3.2.1a (October 13, 2011)
-- Add <spectrum*>.
+Version 3.2.3 (October 29, 2011)
+- Add <application-ab>.
+- Add <balloon-slash>.
+- Add <flower*>.
+- Add <haiku*>.
+- Add <ice-cream*>.
+- Add <locale-alternate>.
+- Add <monitor-blue>.
+- Add <oil-barrel>.
+- Add <paint-brush-slash>.
+- Add <pencil-slash>.
+- Add <quill-slash>.
+- Add <weather-moon-half>.
+------------------------------------------------------------
+Version 3.2.2 (October 21, 2011)
+- Add <cheque*>.
+- Add <fill-medium*>.
+- Add <printer-color> and <printer-monochrome>.
+- Add <sealing-wax>.
 ------------------------------------------------------------
 Version 3.2.1 (October 8, 2011)
 - Add <at-sign*>.
@@ -10,6 +27,7 @@ Version 3.2.1 (October 8, 2011)
 - Add <milestone-calendar>.
 - Add <postage-stamp-at-sign>.
 - Add <skull*>.
+- Add <spectrum*>.
 - Add <traffic-light-single>.
 - Add <train-metro>.
 - Add <truck-box*>.
