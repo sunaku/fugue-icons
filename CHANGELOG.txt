@@ -11,6 +11,8 @@ Version 3.2.3 (October 29, 2011)
 - Add <pencil-slash>.
 - Add <quill-slash>.
 - Add <weather-moon-half>.
+- Add <24/lock>.
+- Add <32/lock>.
 ------------------------------------------------------------
 Version 3.2.2 (October 21, 2011)
 - Add <cheque*>.
