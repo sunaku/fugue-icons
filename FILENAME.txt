@@ -225,6 +225,9 @@ auction-hammer--minus.png
 auction-hammer--pencil.png
 auction-hammer--plus.png
 auction-hammer-gavel.png
+baggage-cart.png
+baggage-cart-box.png
+baggage-cart-box-label.png
 balance.png
 balance--arrow.png
 balance--exclamation.png
@@ -245,7 +248,7 @@ balloon-facebook.png
 balloon-facebook-left.png
 balloon-left.png
 balloon-quotation.png
-balloon-slash.png
+balloon-prohibition.png
 balloon-small.png
 balloon-small-left.png
 balloon-smiley.png
@@ -452,6 +455,7 @@ blue-document-table.png
 blue-document-tag.png
 blue-document-task.png
 blue-document-template.png
+blue-document-tex.png
 blue-document-text.png
 blue-document-text-image.png
 blue-document-tree.png
@@ -634,6 +638,7 @@ burn--minus.png
 burn--pencil.png
 burn--plus.png
 burn-small.png
+cactus.png
 cake.png
 cake--arrow.png
 cake--exclamation.png
@@ -730,6 +735,8 @@ cassette--plus.png
 cassette-label.png
 cassette-small.png
 category.png
+caution-board.png
+caution-board-prohibition.png
 certificate.png
 chain.png
 chain--arrow.png
@@ -771,7 +778,7 @@ chevron-small.png
 chevron-small-expand.png
 church.png
 cigarette.png
-cigarette-slash.png
+cigarette-prohibition.png
 clapperboard.png
 clapperboard--arrow.png
 clapperboard--exclamation.png
@@ -1038,7 +1045,7 @@ disk-small-black.png
 disks.png
 disks-black.png
 do-not-disturb-sign.png
-do-not-disturb-sign-slash.png
+do-not-disturb-sign-prohibition.png
 document.png
 document--arrow.png
 document--exclamation.png
@@ -1140,6 +1147,7 @@ document-table.png
 document-tag.png
 document-task.png
 document-template.png
+document-tex.png
 document-text.png
 document-text-image.png
 document-tree.png
@@ -1593,6 +1601,9 @@ home-medium.png
 home-network.png
 home-share.png
 home-small.png
+home-for-sale-sign.png
+home-for-sale-sign-blue.png
+home-for-sale-sign-red.png
 hourglass.png
 hourglass--arrow.png
 hourglass--exclamation.png
@@ -1610,6 +1621,7 @@ ice--plus.png
 ice-cream.png
 ice-cream-blue-moon.png
 ice-cream-chocolate.png
+ice-cream-empty.png
 ice-cream-sprinkles.png
 ice-cream-sprinkles-blue-moon.png
 ice-cream-sprinkles-chocolate.png
@@ -1938,6 +1950,7 @@ media-player-medium-red.png
 media-player-medium-yellow.png
 media-player-phone.png
 media-player-phone-horizontal.png
+media-player-phone-protector.png
 media-player-small.png
 media-player-small-blue.png
 media-player-small-green.png
@@ -1992,6 +2005,7 @@ mobile-phone--plus.png
 mobile-phone-cast.png
 mobile-phone-medium.png
 mobile-phone-off.png
+mobile-phone-protector.png
 molecule.png
 money.png
 money--arrow.png
@@ -2014,6 +2028,7 @@ monitor-image.png
 monitor-medium.png
 monitor-network.png
 monitor-off.png
+monitor-protector.png
 monitor-screensaver.png
 monitor-sidebar.png
 monitor-wallpaper.png
@@ -2126,7 +2141,7 @@ paint-brush--minus.png
 paint-brush--pencil.png
 paint-brush--plus.png
 paint-brush-color.png
-paint-brush-slash.png
+paint-brush-prohibition.png
 paint-brush-small.png
 paint-can.png
 paint-can--arrow.png
@@ -2163,6 +2178,7 @@ paper-bag--plus.png
 paper-bag-label.png
 paper-bag-recycle.png
 paper-clip.png
+paper-clip-prohibition.png
 paper-clip-small.png
 paper-lantern.png
 paper-lantern-emblem.png
@@ -2184,6 +2200,7 @@ pda--minus.png
 pda--pencil.png
 pda--plus.png
 pda-off.png
+pda-protector.png
 pearl.png
 pearl-shell.png
 pencil.png
@@ -2193,8 +2210,8 @@ pencil--minus.png
 pencil--plus.png
 pencil-color.png
 pencil-field.png
+pencil-prohibition.png
 pencil-ruler.png
-pencil-slash.png
 pencil-small.png
 photo-album.png
 photo-album--arrow.png
@@ -2263,7 +2280,7 @@ plug--pencil.png
 plug--plus.png
 plug-connect.png
 plug-disconnect.png
-plug-disconnect-slash.png
+plug-disconnect-prohibition.png
 plus.png
 plus-button.png
 plus-circle.png
@@ -2285,6 +2302,8 @@ point-bronze.png
 point-silver.png
 point-small.png
 points.png
+popcorn.png
+popcorn-empty.png
 postage-stamp.png
 postage-stamp--arrow.png
 postage-stamp--exclamation.png
@@ -2321,6 +2340,9 @@ printer-network.png
 printer-share.png
 printer-small.png
 processor.png
+prohibition.png
+prohibition-button.png
+prohibition-small.png
 projection-screen.png
 projection-screen--arrow.png
 projection-screen--exclamation.png
@@ -2353,7 +2375,7 @@ quill--arrow.png
 quill--exclamation.png
 quill--minus.png
 quill--plus.png
-quill-slash.png
+quill-prohibition.png
 radar.png
 radioactivity.png
 radioactivity-drum.png
@@ -2555,9 +2577,6 @@ skull-happy.png
 skull-mad.png
 skull-old.png
 skull-sad.png
-slash.png
-slash-button.png
-slash-small.png
 slide.png
 slide--arrow.png
 slide--exclamation.png
@@ -2861,6 +2880,7 @@ television--pencil.png
 television--plus.png
 television-image.png
 television-off.png
+television-protector.png
 television-test.png
 terminal.png
 terminal--arrow.png

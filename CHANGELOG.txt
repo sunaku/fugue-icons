@@ -1,3 +1,20 @@
+Version 3.2.4 (November 7, 2011)
+- Rename <*slash*> to <*prohibition*>.
+- Add <baggage-cart*>.
+- Add <blue-document-tex>.
+- Add <cactus>.
+- Add <caution-board*>.
+- Add <document-tex>.
+- Add <home-for-sale-sign*>.
+- Add <ice-cream-empty>.
+- Add <media-player-phone-protector>.
+- Add <mobile-phone-protector>.
+- Add <monitor-protector>.
+- Add <paper-clip-prohibition>.
+- Add <pda-protector>.
+- Add <popcorn*>.
+- Add <television-protector>.
+------------------------------------------------------------
 Version 3.2.3 (October 29, 2011)
 - Add <application-ab>.
 - Add <balloon-slash>.
