@@ -48,6 +48,7 @@ application-export.png
 application-form.png
 application-home.png
 application-icon.png
+application-icon-large.png
 application-image.png
 application-import.png
 application-list.png
@@ -56,6 +57,7 @@ application-monitor.png
 application-network.png
 application-plus.png
 application-plus-black.png
+application-plus-red.png
 application-rename.png
 application-resize.png
 application-resize-actual.png
@@ -1458,6 +1460,7 @@ folders.png
 folders-stack.png
 folding-fan.png
 fruit.png
+fruit-apple-half.png
 fruit-grape.png
 fruit-lime.png
 fruit-orange.png
@@ -1951,6 +1954,7 @@ media-player-medium-yellow.png
 media-player-phone.png
 media-player-phone-horizontal.png
 media-player-phone-protector.png
+media-player-protector.png
 media-player-small.png
 media-player-small-blue.png
 media-player-small-green.png
@@ -2053,21 +2057,26 @@ music--plus.png
 music-beam.png
 music-beam-16.png
 music-small.png
+mustache.png
 na.png
 navigation.png
 navigation-000-button.png
+navigation-000-button-white.png
 navigation-000-frame.png
 navigation-000-white.png
 navigation-090.png
 navigation-090-button.png
+navigation-090-button-white.png
 navigation-090-frame.png
 navigation-090-white.png
 navigation-180.png
 navigation-180-button.png
+navigation-180-button-white.png
 navigation-180-frame.png
 navigation-180-white.png
 navigation-270.png
 navigation-270-button.png
+navigation-270-button-white.png
 navigation-270-frame.png
 navigation-270-white.png
 network.png
@@ -2377,6 +2386,13 @@ quill--minus.png
 quill--plus.png
 quill-prohibition.png
 radar.png
+radio.png
+radio--arrow.png
+radio--exclamation.png
+radio--minus.png
+radio--pencil.png
+radio--plus.png
+radio-old.png
 radioactivity.png
 radioactivity-drum.png
 rainbow.png
@@ -2418,6 +2434,7 @@ report-word.png
 reports.png
 reports-stack.png
 resource-monitor.png
+resource-monitor-protector.png
 ribbon.png
 ring.png
 road-sign.png
@@ -2757,6 +2774,7 @@ store--minus.png
 store--pencil.png
 store--plus.png
 store-label.png
+store-market-stall.png
 store-medium.png
 store-network.png
 store-open.png
@@ -2782,6 +2800,7 @@ system-monitor--pencil.png
 system-monitor--plus.png
 system-monitor-medium.png
 system-monitor-network.png
+system-monitor-protector.png
 t-shirt.png
 t-shirt-gray.png
 t-shirt-print.png
@@ -2890,6 +2909,7 @@ terminal--pencil.png
 terminal--plus.png
 terminal-medium.png
 terminal-network.png
+terminal-protector.png
 thermometer.png
 thermometer--arrow.png
 thermometer--exclamation.png

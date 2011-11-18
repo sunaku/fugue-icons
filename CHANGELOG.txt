@@ -1,3 +1,16 @@
+Version 3.3 (November 19, 2011)
+- Add <application-icon-large> and <application-plus-red>.
+- Add <fruit-apple-half>.
+- Add <media-player-protector>.
+- Add <mustache>.
+- Add <navigation-*-button-white>.
+- Add <radio*>.
+- Add <resource-monitor-protector>.
+- Add <store-market-stall>.
+- Add <system-monitor-protector>.
+- Add <terminal-protector>.
+- Add <32/tick>.
+------------------------------------------------------------
 Version 3.2.4 (November 7, 2011)
 - Rename <*slash*> to <*prohibition*>.
 - Add <baggage-cart*>.
