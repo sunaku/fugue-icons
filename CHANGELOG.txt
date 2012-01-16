@@ -1,3 +1,17 @@
+Version 3.3.1 (January 16, 2012)
+- Add <balloon-box*>.
+- Add <board-game*>.
+- Add <film-youtube>.
+- Add <lock-ssl>.
+- Add <thumb-small*>.
+- Add <ui-address-bar-lock>.
+- Add <ui-breadcrumb-select*>
+- Add <ui-seek-bar*>.
+- Add <ui-tab-content-veritical>.
+- Add <ui-text-field-medium*> and <ui-text-field-small*>.
+- Add <24/lock-ssl>.
+- Add <32/lock-ssl>.
+------------------------------------------------------------
 Version 3.3 (November 19, 2011)
 - Add <application-icon-large> and <application-plus-red>.
 - Add <fruit-apple-half>.
