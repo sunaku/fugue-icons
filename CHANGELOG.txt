@@ -1,3 +1,9 @@
+Version 3.3.2 (February 9, 2012)
+- Add <category-group*>, <category-item*> and <categories>.
+- Add <cheese*>.
+- Add <database-sql>.
+- Add <stickman*>.
+------------------------------------------------------------
 Version 3.3.1 (January 16, 2012)
 - Add <balloon-box*>.
 - Add <board-game*>.

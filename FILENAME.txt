@@ -741,6 +741,11 @@ cassette--plus.png
 cassette-label.png
 cassette-small.png
 category.png
+category-group.png
+category-group-select.png
+category-item.png
+category-item-select.png
+categories.png
 caution-board.png
 caution-board-prohibition.png
 certificate.png
@@ -771,6 +776,8 @@ chart-pie-separate.png
 chart-up.png
 chart-up-color.png
 checkerboard.png
+cheese.png
+cheese-hole.png
 cheque.png
 cheque--arrow.png
 cheque--exclamation.png
@@ -1007,6 +1014,7 @@ database-medium.png
 database-network.png
 database-share.png
 database-small.png
+database-sql.png
 databases.png
 databases-relation.png
 desktop.png
@@ -2757,6 +2765,8 @@ status.png
 status-away.png
 status-busy.png
 status-offline.png
+stickman.png
+stickman-smiley.png
 sticky-note.png
 sticky-note--arrow.png
 sticky-note--exclamation.png
