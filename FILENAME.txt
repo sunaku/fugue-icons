@@ -708,6 +708,7 @@ camera-small.png
 camera-small-black.png
 candle.png
 candle-white.png
+candy-cane.png
 car.png
 car--arrow.png
 car--exclamation.png
@@ -763,6 +764,8 @@ chair--exclamation.png
 chair--minus.png
 chair--pencil.png
 chair--plus.png
+chalkboard.png
+chalkboard-text.png
 chart.png
 chart--arrow.png
 chart--exclamation.png
@@ -789,6 +792,9 @@ chevron.png
 chevron-expand.png
 chevron-small.png
 chevron-small-expand.png
+chocolate.png
+chocolate-bite.png
+chocolate-milk.png
 church.png
 cigarette.png
 cigarette-prohibition.png
@@ -1693,6 +1699,7 @@ information.png
 information-balloon.png
 information-button.png
 information-frame.png
+information-italic.png
 information-octagon.png
 information-octagon-frame.png
 information-shield.png
@@ -1724,6 +1731,7 @@ keyboard--minus.png
 keyboard--pencil.png
 keyboard--plus.png
 keyboard-command.png
+keyboard-enter.png
 keyboard-full.png
 keyboard-full-wireless.png
 keyboard-space.png
@@ -1897,9 +1905,10 @@ mail--exclamation.png
 mail--minus.png
 mail--pencil.png
 mail--plus.png
+mail-air.png
+mail-at-sign.png
 mail-forward.png
 mail-forward-all.png
-mail-at-sign.png
 mail-medium.png
 mail-open.png
 mail-open-document.png
@@ -2903,6 +2912,9 @@ telephone--minus.png
 telephone--pencil.png
 telephone--plus.png
 telephone-fax.png
+telephone-handset.png
+telephone-handset-prohibition.png
+telephone-handset-wire.png
 telephone-medium.png
 telephone-network.png
 telephone-off.png
@@ -3240,6 +3252,7 @@ water--pencil.png
 water--plus.png
 weather.png
 weather-cloud.png
+weather-cloud-small.png
 weather-clouds.png
 weather-cloudy.png
 weather-fog.png
@@ -3272,6 +3285,8 @@ weight--minus.png
 weight--pencil.png
 weight--plus.png
 wheel.png
+wi-fi.png
+wi-fi-zone.png
 windows.png
 wooden-box.png
 wooden-box--arrow.png
@@ -3296,6 +3311,7 @@ wrench--minus.png
 wrench--pencil.png
 wrench--plus.png
 wrench-screwdriver.png
+x-ray.png
 xfn.png
 xfn-colleague.png
 xfn-colleague-met.png

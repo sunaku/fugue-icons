@@ -1,3 +1,19 @@
+Version 3.3.3 (February 14, 2012)
+- Add <candy-cane>.
+- Add <chalkboard*>.
+- Add <chocolate*>.
+- Add <information-italic>.
+- Add <keyboard-enter>.
+- Add <mail-air>.
+- Add <telephone-handset*>.
+- Add <weather-cloud-small>.
+- Add <wi-fi*>.
+- Add <x-ray>.
+- Add <24/gear>.
+- Add <24/keyboard-enter>.
+- Add <24/prohibition>.
+- Add <32/keyboard-enter>.
+------------------------------------------------------------
 Version 3.3.2 (February 9, 2012)
 - Add <category-group*>, <category-item*> and <categories>.
 - Add <cheese*>.
