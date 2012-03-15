@@ -1248,6 +1248,7 @@ edit-alignment-right.png
 edit-all-caps.png
 edit-bold.png
 edit-code.png
+edit-code-division.png
 edit-color.png
 edit-column.png
 edit-comma.png
@@ -1269,6 +1270,7 @@ edit-image.png
 edit-image-center.png
 edit-image-right.png
 edit-indent.png
+edit-indent-rtl.png
 edit-italic.png
 edit-kerning.png
 edit-language.png
@@ -1276,10 +1278,13 @@ edit-letter-spacing.png
 edit-line-spacing.png
 edit-list.png
 edit-list-order.png
+edit-list-order-rtl.png
+edit-list-rtl.png
 edit-lowercase.png
 edit-mathematics.png
 edit-number.png
 edit-outdent.png
+edit-outdent-rtl.png
 edit-outline.png
 edit-overline.png
 edit-padding.png
@@ -1509,6 +1514,8 @@ geotag-document.png
 geotag-small.png
 ghost.png
 ghost-small.png
+git.png
+git-small.png
 glass.png
 glass--arrow.png
 glass--exclamation.png
@@ -2012,6 +2019,8 @@ microphone--pencil.png
 microphone--plus.png
 milestone.png
 milestone-calendar.png
+milk.png
+milk-label.png
 minus.png
 minus-button.png
 minus-circle.png
@@ -2926,6 +2935,7 @@ television--minus.png
 television--pencil.png
 television--plus.png
 television-image.png
+television-medium.png
 television-off.png
 television-protector.png
 television-test.png
@@ -3039,6 +3049,7 @@ ui-breadcrumb-select-current.png
 ui-breadcrumb-select-parent.png
 ui-button.png
 ui-button-default.png
+ui-button-image.png
 ui-button-navigation.png
 ui-button-navigation-back.png
 ui-button-toggle.png
@@ -3123,6 +3134,8 @@ ui-tab-content-vertical.png
 ui-tab-side.png
 ui-text-area.png
 ui-text-field.png
+ui-text-field-clear.png
+ui-text-field-clear-button.png
 ui-text-field-format.png
 ui-text-field-hidden.png
 ui-text-field-medium.png
@@ -3262,7 +3275,9 @@ weather-moon-clouds.png
 weather-moon-fog.png
 weather-moon-half.png
 weather-rain.png
+weather-rain-little.png
 weather-snow.png
+weather-snow-little.png
 weather-tornado.png
 weather-wind.png
 web-slice.png

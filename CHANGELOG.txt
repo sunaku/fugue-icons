@@ -1,3 +1,14 @@
+Version 3.3.4 (March 15, 2012)
+- Add <edit-code-division>, <edit-indent-rtl>,
+  <edit-list-order-rtl>, <edit-list-rtl> and
+  <edit-outdent-rtl>.
+- Add <git*>.
+- Add <milk*>.
+- Add <television-medium>.
+- Add <ui-button-image>.
+- Add <ui-text-field-clear*>.
+- Add <weather-*-little>.
+------------------------------------------------------------
 Version 3.3.3 (February 14, 2012)
 - Add <candy-cane>.
 - Add <chalkboard*>.
