@@ -256,6 +256,7 @@ balloon-prohibition.png
 balloon-small.png
 balloon-small-left.png
 balloon-smiley.png
+balloon-smiley-sad.png
 balloon-sound.png
 balloon-twitter.png
 balloon-twitter-left.png
@@ -450,6 +451,8 @@ blue-document-share.png
 blue-document-shred.png
 blue-document-small.png
 blue-document-small-list.png
+blue-document-smiley.png
+blue-document-smiley-sad.png
 blue-document-snippet.png
 blue-document-stamp.png
 blue-document-stand.png
@@ -504,9 +507,12 @@ blue-folder-share.png
 blue-folder-shred.png
 blue-folder-small.png
 blue-folder-small-horizontal.png
+blue-folder-smiley.png
+blue-folder-smiley-sad.png
 blue-folder-stamp.png
 blue-folder-stand.png
 blue-folder-sticky-note.png
+blue-folder-tree.png
 blue-folder-zipper.png
 blue-folders.png
 blue-folders-stack.png
@@ -1158,6 +1164,8 @@ document-share.png
 document-shred.png
 document-small.png
 document-small-list.png
+document-smiley.png
+document-smiley-sad.png
 document-snippet.png
 document-stamp.png
 document-stand.png
@@ -1475,6 +1483,8 @@ folder-share.png
 folder-shred.png
 folder-small.png
 folder-small-horizontal.png
+folder-smiley.png
+folder-smiley-sad.png
 folder-stamp.png
 folder-stand.png
 folder-sticky-note.png
@@ -1508,6 +1518,8 @@ gear--plus.png
 gear-small.png
 gender.png
 gender-female.png
+geolocation.png
+geolocation-small.png
 geotag.png
 geotag-balloon.png
 geotag-document.png
@@ -1741,6 +1753,7 @@ keyboard-command.png
 keyboard-enter.png
 keyboard-full.png
 keyboard-full-wireless.png
+keyboard-smiley.png
 keyboard-space.png
 language.png
 language-balloon.png
@@ -2159,6 +2172,27 @@ notebook-medium.png
 notebook-share.png
 notebook-sticky-note.png
 notebooks.png
+notification-counter.png
+notification-counter-02.png
+notification-counter-03.png
+notification-counter-04.png
+notification-counter-05.png
+notification-counter-06.png
+notification-counter-07.png
+notification-counter-08.png
+notification-counter-09.png
+notification-counter-10.png
+notification-counter-11.png
+notification-counter-12.png
+notification-counter-13.png
+notification-counter-14.png
+notification-counter-15.png
+notification-counter-16.png
+notification-counter-17.png
+notification-counter-18.png
+notification-counter-19.png
+notification-counter-20.png
+notification-counter-20-plus.png
 occluder.png
 odata.png
 odata-balloon.png
@@ -2462,6 +2496,7 @@ report-excel.png
 report-image.png
 report-medium.png
 report-paper.png
+report-share.png
 report-word.png
 reports.png
 reports-stack.png
@@ -2561,6 +2596,8 @@ script-import.png
 script-medium.png
 script-office.png
 script-php.png
+script-smiley.png
+script-smiley-sad.png
 script-stamp.png
 script-text.png
 script-visual-studio.png
@@ -2896,6 +2933,7 @@ tag-label-purple.png
 tag-label-red.png
 tag-label-yellow.png
 tag-medium.png
+tag-share.png
 tag-small.png
 tags.png
 tags-label.png
@@ -3357,5 +3395,6 @@ zone-label.png
 zone-medium.png
 zone-money.png
 zone-select.png
+zone-share.png
 zones.png
 zones-stack.png
