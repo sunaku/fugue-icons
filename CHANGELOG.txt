@@ -1,3 +1,8 @@
+Version 3.4.1 (May 3, 2012)
+- Add <blue-document-number-*>.
+- Add <document-number-*>.
+- Add <footprint*>.
+------------------------------------------------------------
 Version 3.4 (April 28, 2012)
 - Add <balloon-smiley-sad>.
 - Add <blue-document-smiley*>.
