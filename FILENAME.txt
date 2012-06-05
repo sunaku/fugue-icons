@@ -603,9 +603,12 @@ box--plus.png
 box-document.png
 box-label.png
 box-medium.png
+box-resize.png
+box-resize-actual.png
 box-search-result.png
 box-share.png
 box-small.png
+box-zipper.png
 brain.png
 brain--arrow.png
 brain--exclamation.png
@@ -936,6 +939,7 @@ control-stop-270-small.png
 control-stop-square.png
 control-stop-square-small.png
 controller.png
+controller-d-pad.png
 cookie.png
 cookie--arrow.png
 cookie--exclamation.png
@@ -1899,6 +1903,7 @@ lock--plus.png
 lock-small.png
 lock-ssl.png
 lock-unlock.png
+lock-warning.png
 lollipop.png
 luggage.png
 luggage--arrow.png
@@ -1977,6 +1982,8 @@ map--pencil.png
 map--plus.png
 map-medium.png
 map-pin.png
+map-resize.png
+map-resize-actual.png
 map-share.png
 maps.png
 maps-stack.png
@@ -2630,6 +2637,8 @@ sd-memory-card.png
 sealing-wax.png
 selection.png
 selection-input.png
+selection-resize.png
+selection-resize-actual.png
 selection-select.png
 selection-select-input.png
 server.png
@@ -2693,6 +2702,8 @@ slide--pencil.png
 slide--plus.png
 slide-medium.png
 slide-powerpoint.png
+slide-resize.png
+slide-resize-actual.png
 slides.png
 slides-stack.png
 smiley.png
@@ -2921,6 +2932,9 @@ table-join-row.png
 table-medium.png
 table-money.png
 table-paint-can.png
+table-resize.png
+table-resize-actual.png
+table-rotate.png
 table-select.png
 table-select-all.png
 table-select-cells.png
@@ -3141,6 +3155,8 @@ ui-menu.png
 ui-menu-blue.png
 ui-paginator.png
 ui-panel.png
+ui-panel-resize.png
+ui-panel-resize-actual.png
 ui-progress-bar.png
 ui-progress-bar-indeterminate.png
 ui-radio-button.png
@@ -3416,6 +3432,8 @@ zone--plus.png
 zone-label.png
 zone-medium.png
 zone-money.png
+zone-resize.png
+zone-resize-actual.png
 zone-select.png
 zone-share.png
 zones.png
