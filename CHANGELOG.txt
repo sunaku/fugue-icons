@@ -1,3 +1,12 @@
+Version 3.4.3 (June 8, 2012)
+- Add <dress>.
+- Add <edit-lipsum> and <edit-style>.
+- Add <keyboard-small> and <keyboards*>.
+- Add <santa-hat>.
+- Add <smiley-medium>.
+- Add <sushi>.
+- Add <wand-magic>.
+------------------------------------------------------------
 Version 3.4.2 (June 5, 2012)
 - Add <box-resize*> and <box-zipper>.
 - Add <controller-d-pad>.

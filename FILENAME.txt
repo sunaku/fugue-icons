@@ -1234,6 +1234,7 @@ drawer--minus.png
 drawer--pencil.png
 drawer--plus.png
 drawer-open.png
+dress.png
 drill.png
 drill--arrow.png
 drill--exclamation.png
@@ -1308,6 +1309,7 @@ edit-kerning.png
 edit-language.png
 edit-letter-spacing.png
 edit-line-spacing.png
+edit-lipsum.png
 edit-list.png
 edit-list-order.png
 edit-list-order-rtl.png
@@ -1341,6 +1343,7 @@ edit-small-caps.png
 edit-space.png
 edit-strike.png
 edit-strike-double.png
+edit-style.png
 edit-subscript.png
 edit-superscript.png
 edit-symbol.png
@@ -1779,8 +1782,11 @@ keyboard-command.png
 keyboard-enter.png
 keyboard-full.png
 keyboard-full-wireless.png
+keyboard-small.png
 keyboard-smiley.png
 keyboard-space.png
+keyboards.png
+keyboards-combination.png
 language.png
 language-balloon.png
 language-document.png
@@ -2562,6 +2568,7 @@ safe--exclamation.png
 safe--minus.png
 safe--pencil.png
 safe--plus.png
+santa-hat.png
 scanner.png
 scanner--arrow.png
 scanner--exclamation.png
@@ -2721,6 +2728,7 @@ smiley-kiss.png
 smiley-kitty.png
 smiley-lol.png
 smiley-mad.png
+smiley-medium.png
 smiley-money.png
 smiley-mr-green.png
 smiley-nerd.png
@@ -2887,6 +2895,7 @@ store-small.png
 subversion.png
 subversion-small.png
 sum.png
+sushi.png
 switch.png
 switch--arrow.png
 switch--exclamation.png
@@ -3332,6 +3341,7 @@ wand--minus.png
 wand--pencil.png
 wand--plus.png
 wand-hat.png
+wand-magic.png
 wand-small.png
 water.png
 water--arrow.png
