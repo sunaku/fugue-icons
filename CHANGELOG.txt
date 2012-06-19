@@ -1,3 +1,13 @@
+Version 3.4.4 (June 20, 2012)
+- Add <blue-document-epub*> and <blue-document-mobi*>.
+- Add <cursor-lifebuoy>.
+- Add <document-epub*> and <document-mobi*>.
+- Add <flag-checker>.
+- Add <lifebuoy-medium> and <lifebuoy-small>.
+- Add <pencil-button>.
+- Add <shuriken>.
+- Add <stickman-run*> and <stickman-smiley-*>.
+------------------------------------------------------------
 Version 3.4.3 (June 8, 2012)
 - Add <dress>.
 - Add <edit-lipsum> and <edit-style>.

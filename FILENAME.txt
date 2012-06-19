@@ -402,6 +402,8 @@ blue-document-clock.png
 blue-document-code.png
 blue-document-convert.png
 blue-document-copy.png
+blue-document-epub.png
+blue-document-epub-text.png
 blue-document-excel.png
 blue-document-excel-csv.png
 blue-document-excel-table.png
@@ -426,6 +428,8 @@ blue-document-insert.png
 blue-document-invoice.png
 blue-document-list.png
 blue-document-medium.png
+blue-document-mobi.png
+blue-document-mobi-text.png
 blue-document-music.png
 blue-document-music-playlist.png
 blue-document-node.png
@@ -1003,6 +1007,7 @@ currency-pound.png
 currency-ruble.png
 currency-yen.png
 cursor.png
+cursor-lifebuoy.png
 cursor-question.png
 cursor-small.png
 cushion.png
@@ -1129,6 +1134,8 @@ document-clock.png
 document-code.png
 document-convert.png
 document-copy.png
+document-epub.png
+document-epub-text.png
 document-excel.png
 document-excel-csv.png
 document-excel-table.png
@@ -1153,6 +1160,8 @@ document-insert.png
 document-invoice.png
 document-list.png
 document-medium.png
+document-mobi.png
+document-mobi-text.png
 document-music.png
 document-music-playlist.png
 document-node.png
@@ -1455,6 +1464,7 @@ flag--pencil.png
 flag--plus.png
 flag-black.png
 flag-blue.png
+flag-checker.png
 flag-gray.png
 flag-green.png
 flag-pink.png
@@ -1879,6 +1889,8 @@ lifebuoy--exclamation.png
 lifebuoy--minus.png
 lifebuoy--pencil.png
 lifebuoy--plus.png
+lifebuoy-medium.png
+lifebuoy-small.png
 light-bulb.png
 light-bulb--arrow.png
 light-bulb--exclamation.png
@@ -2318,6 +2330,7 @@ pencil--arrow.png
 pencil--exclamation.png
 pencil--minus.png
 pencil--plus.png
+pencil-button.png
 pencil-color.png
 pencil-field.png
 pencil-prohibition.png
@@ -2692,6 +2705,7 @@ shopping-basket--plus.png
 shortcut.png
 shortcut-small.png
 shovel.png
+shuriken.png
 sitemap.png
 sitemap-application.png
 sitemap-application-blue.png
@@ -2862,7 +2876,13 @@ status-away.png
 status-busy.png
 status-offline.png
 stickman.png
+stickman-run.png
+stickman-run-dash.png
 stickman-smiley.png
+stickman-smiley-angry.png
+stickman-smiley-empty.png
+stickman-smiley-love.png
+stickman-smiley-question.png
 sticky-note.png
 sticky-note--arrow.png
 sticky-note--exclamation.png
