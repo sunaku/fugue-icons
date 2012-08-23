@@ -1,3 +1,12 @@
+Version 3.4.5 (August 23, 2012)
+- Add <edit-family>.
+- Add <exclamation-circle*>.
+- Add <mushroom>.
+- Add <road>.
+- Add <transmitter>.
+- Add <user-medium-silhouette>.
+- Add <vase*>.
+------------------------------------------------------------
 Version 3.4.4 (June 20, 2012)
 - Add <blue-document-epub*> and <blue-document-mobi*>.
 - Add <cursor-lifebuoy>.
