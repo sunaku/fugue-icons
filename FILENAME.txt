@@ -35,6 +35,7 @@ application-block.png
 application-blog.png
 application-blue.png
 application-browser.png
+application-cloud.png
 application-detail.png
 application-dialog.png
 application-dock.png
@@ -486,6 +487,7 @@ blue-document-view-thumbnail.png
 blue-document-visual-studio.png
 blue-document-word.png
 blue-document-word-text.png
+blue-document-word-tick.png
 blue-document-xaml.png
 blue-document-zipper.png
 blue-documents.png
@@ -701,6 +703,7 @@ calendar-medium.png
 calendar-month.png
 calendar-next.png
 calendar-previous.png
+calendar-property.png
 calendar-relation.png
 calendar-search-result.png
 calendar-select.png
@@ -797,6 +800,7 @@ chart--pencil.png
 chart--plus.png
 chart-down.png
 chart-down-color.png
+chart-medium.png
 chart-pie.png
 chart-pie-separate.png
 chart-up.png
@@ -833,6 +837,7 @@ clipboard--exclamation.png
 clipboard--minus.png
 clipboard--pencil.png
 clipboard--plus.png
+clipboard-block.png
 clipboard-empty.png
 clipboard-invoice.png
 clipboard-list.png
@@ -888,6 +893,7 @@ computer--exclamation.png
 computer--minus.png
 computer--pencil.png
 computer--plus.png
+computer-cloud.png
 computer-network.png
 computer-off.png
 construction.png
@@ -1037,12 +1043,14 @@ database--exclamation.png
 database--minus.png
 database--pencil.png
 database--plus.png
+database-cloud.png
 database-delete.png
 database-export.png
 database-import.png
 database-insert.png
 database-medium.png
 database-network.png
+database-property.png
 database-share.png
 database-small.png
 database-sql.png
@@ -1218,6 +1226,7 @@ document-view-thumbnail.png
 document-visual-studio.png
 document-word.png
 document-word-text.png
+document-word-tick.png
 document-xaml.png
 document-zipper.png
 documents.png
@@ -2123,6 +2132,7 @@ monitor--pencil.png
 monitor--plus.png
 monitor-blue.png
 monitor-cast.png
+monitor-cloud.png
 monitor-image.png
 monitor-medium.png
 monitor-network.png
@@ -2673,6 +2683,7 @@ server--minus.png
 server--pencil.png
 server--plus.png
 server-cast.png
+server-cloud.png
 server-medium.png
 server-network.png
 server-property.png
@@ -3129,6 +3140,14 @@ train--pencil.png
 train--plus.png
 train-metro.png
 transmitter.png
+tree.png
+tree--arrow.png
+tree--exclamation.png
+tree--minus.png
+tree--pencil.png
+tree--plus.png
+tree-red.png
+tree-yellow.png
 trophy.png
 trophy--arrow.png
 trophy--exclamation.png
@@ -3201,6 +3220,7 @@ ui-ruler.png
 ui-scroll-bar.png
 ui-scroll-bar-horizontal.png
 ui-scroll-pane.png
+ui-scroll-pane-block.png
 ui-scroll-pane-blog.png
 ui-scroll-pane-both.png
 ui-scroll-pane-detail.png
