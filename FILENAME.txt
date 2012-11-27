@@ -325,6 +325,9 @@ bell--minus.png
 bell--pencil.png
 bell--plus.png
 bell-small.png
+billboard.png
+billboard-empty.png
+billboard-red.png
 bin.png
 bin--arrow.png
 bin--exclamation.png
@@ -1577,6 +1580,8 @@ geotag-document.png
 geotag-small.png
 ghost.png
 ghost-small.png
+gingerbread-man.png
+gingerbread-man-chocolate.png
 git.png
 git-small.png
 glass.png
@@ -1683,6 +1688,7 @@ highlighter--plus.png
 highlighter-color.png
 highlighter-small.png
 highlighter-text.png
+holly.png
 home.png
 home--arrow.png
 home--exclamation.png
@@ -1730,6 +1736,7 @@ image-crop.png
 image-empty.png
 image-export.png
 image-import.png
+image-map.png
 image-medium.png
 image-reflection.png
 image-resize.png
@@ -2104,6 +2111,8 @@ minus-small.png
 minus-small-circle.png
 minus-small-white.png
 minus-white.png
+mizuhiki-paper-cord.png
+mizuhiki-paper-cord-alternate.png
 mobile-phone.png
 mobile-phone--arrow.png
 mobile-phone--exclamation.png
@@ -2477,6 +2486,16 @@ printer-network.png
 printer-share.png
 printer-small.png
 processor.png
+processor-bit.png
+processor-bit-008.png
+processor-bit-016.png
+processor-bit-024.png
+processor-bit-032.png
+processor-bit-048.png
+processor-bit-064.png
+processor-bit-128.png
+processor-clock.png
+processor-clock-up.png
 prohibition.png
 prohibition-button.png
 prohibition-small.png
@@ -2834,6 +2853,7 @@ speaker-volume-low.png
 speaker-volume-none.png
 spectacle.png
 spectacle-3d.png
+spectacle-lorgnette.png
 spectacle-small.png
 spectacle-sunglass.png
 spectrum.png
@@ -3186,6 +3206,7 @@ ui-check-box.png
 ui-check-box-mix.png
 ui-check-box-uncheck.png
 ui-check-boxes.png
+ui-check-boxes-list.png
 ui-check-boxes-series.png
 ui-color-picker.png
 ui-color-picker-default.png
@@ -3216,6 +3237,7 @@ ui-progress-bar-indeterminate.png
 ui-radio-button.png
 ui-radio-button-uncheck.png
 ui-radio-buttons.png
+ui-radio-buttons-list.png
 ui-ruler.png
 ui-scroll-bar.png
 ui-scroll-bar-horizontal.png
