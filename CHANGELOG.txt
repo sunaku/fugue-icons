@@ -1,3 +1,14 @@
+Version 3.5.2 (January 1, 2013)
+- Add <blue-folder-network-horizontal*>.
+- Add <folder-network-horizontal*>.
+- Add <image-instagram*>.
+- Add <pill-blue>, <pill-small-blue> and <pills>.
+- Add <poison*>.
+- Add <24/image-instagram*>.
+- Add <32/image-instagram*>.
+- Add <animated/construction>.
+- Add <animated/lock-warning>.
+------------------------------------------------------------
 Version 3.5.1 (November 27, 2012)
 - Add <billboard*>.
 - Add <gingerbread-man*>.

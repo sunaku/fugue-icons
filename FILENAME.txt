@@ -510,6 +510,8 @@ blue-folder-horizontal-open.png
 blue-folder-import.png
 blue-folder-medium.png
 blue-folder-network.png
+blue-folder-network-horizontal.png
+blue-folder-network-horizontal-open.png
 blue-folder-open.png
 blue-folder-open-document.png
 blue-folder-open-document-music.png
@@ -1519,6 +1521,8 @@ folder-horizontal-open.png
 folder-import.png
 folder-medium.png
 folder-network.png
+folder-network-horizontal.png
+folder-network-horizontal-open.png
 folder-open.png
 folder-open-document.png
 folder-open-document-music.png
@@ -1736,6 +1740,8 @@ image-crop.png
 image-empty.png
 image-export.png
 image-import.png
+image-instagram.png
+image-instagram-frame.png
 image-map.png
 image-medium.png
 image-reflection.png
@@ -2392,7 +2398,10 @@ pill--exclamation.png
 pill--minus.png
 pill--pencil.png
 pill--plus.png
+pill-blue.png
 pill-small.png
+pill-small-blue.png
+pills.png
 pillow.png
 pillow-gray.png
 pin.png
@@ -2448,6 +2457,10 @@ point-bronze.png
 point-silver.png
 point-small.png
 points.png
+poison.png
+poison-bubble.png
+poison-green.png
+poison-purple.png
 popcorn.png
 popcorn-empty.png
 postage-stamp.png
