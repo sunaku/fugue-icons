@@ -826,6 +826,8 @@ chevron-small.png
 chevron-small-expand.png
 chocolate.png
 chocolate-bite.png
+chocolate-heart.png
+chocolate-heart-milk.png
 chocolate-milk.png
 church.png
 cigarette.png
@@ -963,6 +965,10 @@ cookie--pencil.png
 cookie--plus.png
 cookie-bite.png
 cookie-chocolate.png
+cookie-chocolate-sprinkles.png
+cookie-heart.png
+cookie-heart-chocolate.png
+cookie-heart-chocolate-sprinkles.png
 cookie-medium.png
 cookies.png
 counter.png
@@ -2045,10 +2051,16 @@ medal--minus.png
 medal--pencil.png
 medal--plus.png
 medal-bronze.png
+medal-bronze-premium.png
 medal-bronze-red.png
+medal-bronze-red-premium.png
+medal-premium.png
 medal-red.png
+medal-red-premium.png
 medal-silver.png
+medal-silver-premium.png
 medal-silver-red.png
+medal-silver-red-premium.png
 media-player.png
 media-player--arrow.png
 media-player--exclamation.png
@@ -3205,6 +3217,7 @@ ui-address-bar-lock.png
 ui-address-bar-red.png
 ui-address-bar-yellow.png
 ui-breadcrumb.png
+ui-breadcrumb-bread.png
 ui-breadcrumb-select.png
 ui-breadcrumb-select-current.png
 ui-breadcrumb-select-parent.png
@@ -3403,6 +3416,8 @@ vase-ear.png
 vase-ear-double.png
 vise.png
 vise-drawer.png
+wafer.png
+wafer-gold.png
 wall.png
 wall--arrow.png
 wall--exclamation.png
