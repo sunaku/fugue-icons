@@ -1,3 +1,6 @@
+Version 3.5.4 (February 8, 2013)
+- Add <hand-pinky> and <hand-red-string-of-fate>.
+------------------------------------------------------------
 Version 3.5.3 (February 1, 2013)
 - Add <chocolate-heart*>.
 - Add <cookie-*-sprinkles> and <cookie-heart*>.

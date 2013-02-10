@@ -1652,11 +1652,13 @@ hand.png
 hand-finger.png
 hand-horns.png
 hand-ily.png
+hand-pinky.png
 hand-point.png
 hand-point-090.png
 hand-point-180.png
 hand-point-270.png
 hand-property.png
+hand-red-string-of-fate.png
 hand-shake.png
 hand-share.png
 hard-hat.png
