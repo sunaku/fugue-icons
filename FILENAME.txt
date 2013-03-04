@@ -2008,6 +2008,7 @@ mail-at-sign.png
 mail-forward.png
 mail-forward-all.png
 mail-medium.png
+mail-medium-open.png
 mail-open.png
 mail-open-document.png
 mail-open-document-music.png
@@ -2153,6 +2154,11 @@ money--plus.png
 money-coin.png
 money-medium.png
 moneys.png
+money-bag.png
+money-bag-dollar.png
+money-bag-euro.png
+money-bag-label.png
+money-bag-yen.png
 monitor.png
 monitor--arrow.png
 monitor--exclamation.png
@@ -2978,6 +2984,7 @@ store-small.png
 subversion.png
 subversion-small.png
 sum.png
+surveillance-camera.png
 sushi.png
 switch.png
 switch--arrow.png
@@ -3466,6 +3473,7 @@ weather-rain.png
 weather-rain-little.png
 weather-snow.png
 weather-snow-little.png
+weather-snowflake.png
 weather-tornado.png
 weather-wind.png
 web-slice.png
